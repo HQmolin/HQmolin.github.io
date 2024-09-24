@@ -12,7 +12,7 @@ title                    : "HQmolin / Talk"
 title_separator          : "-"
 name                     : &name "HQmolin"
 description              : &description "A third year undergraduate student from Nanjing University"
-url                      : https://HQmolin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://HQmolin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://imbadtalk.blogspot.com" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
